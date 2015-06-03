@@ -12,6 +12,8 @@ namespace _6_2
         {
         }
     }
+    // You can leave out the code above - all we care about for this part is the class definition. You should also
+    // rename the file to 'Book.cs'.
     class Book
     {
         private string title;
